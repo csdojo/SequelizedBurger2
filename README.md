@@ -7,6 +7,6 @@ Whenever a user submits a burger's name, this app will display the burger on the
 
 Each burger in the waiting area also has a Devour it! button. When the user clicks it, the burger will move to the right side of the page.
 
-[Eat Da Burger Page](https://hidden-ravine-83132.herokuapp.com/)
+[Eat Da Burger Page](https://sequelizedburger111.herokuapp.com/)
 
 :hamburger::hamburger::hamburger::hamburger::hamburger::hamburger::hamburger::hamburger:
